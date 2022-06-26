@@ -1,0 +1,16 @@
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\bin\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.exe
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\bin\Debug\net6.0\TesteArquivo.txt
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\bin\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.deps.json
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\bin\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.runtimeconfig.json
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\bin\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.dll
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\bin\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.pdb
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.csproj.AssemblyReference.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.AssemblyInfoInputs.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.AssemblyInfo.cs
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.csproj.CoreCompileInputs.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.dll
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\refint\DevInHouse.Audaces.Exceptions.Examples.dll
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.pdb
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\DevInHouse.Audaces.Exceptions.Examples.genruntimeconfig.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.Exceptions.Examples\obj\Debug\net6.0\ref\DevInHouse.Audaces.Exceptions.Examples.dll

@@ -1,0 +1,12 @@
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.deps.json
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.dll
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.pdb
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.csproj.AssemblyReference.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.AssemblyInfoInputs.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.AssemblyInfo.cs
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.csproj.CoreCompileInputs.cache
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.dll
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\refint\DevInHouse.Audaces.TDD.Example.dll
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\DevInHouse.Audaces.TDD.Example.pdb
+C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example\obj\Debug\net6.0\ref\DevInHouse.Audaces.TDD.Example.dll

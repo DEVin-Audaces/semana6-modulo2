@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="148bb53f-7401-418b-a36e-65d2869279b9" name="Pc@JEAN 2022-06-26 20:03:40" runUser="Jean\Pc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-06-26T20:03:40.4921443-03:00" queuing="2022-06-26T20:03:40.4921445-03:00" start="2022-06-26T20:03:39.5961463-03:00" finish="2022-06-26T20:03:40.5439419-03:00" />
+  <TestSettings name="default" id="6594bec0-8b48-455d-b2b4-d1c2adddb24f">
+    <Deployment runDeploymentRoot="Pc_JEAN_2022-06-26_20_03_40" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="3bfd9597-5f6c-4cac-a1e6-716022595cce" testId="f70233f2-c6f0-d59b-c3b3-2840fce82404" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Criar_Filme_Duplicado" computerName="JEAN" duration="00:00:00.0001840" startTime="2022-06-26T20:03:40.4648242-03:00" endTime="2022-06-26T20:03:40.4648242-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3bfd9597-5f6c-4cac-a1e6-716022595cce" />
+    <UnitTestResult executionId="cedc9a94-513c-4a62-b097-bfbc51fb28c2" testId="d79516b0-ce55-7b50-9470-d061f1eef84c" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Ano(anoFiltro: 2016)" computerName="JEAN" duration="00:00:00.0000033" startTime="2022-06-26T20:03:40.4471338-03:00" endTime="2022-06-26T20:03:40.4471339-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cedc9a94-513c-4a62-b097-bfbc51fb28c2" />
+    <UnitTestResult executionId="4aa2fa42-7942-4d7d-affa-422044993aba" testId="57e3ba83-4e31-d17a-839c-1f1f2829d9fa" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Ano(anoFiltro: 2022)" computerName="JEAN" duration="00:00:00.0000115" startTime="2022-06-26T20:03:40.4471070-03:00" endTime="2022-06-26T20:03:40.4471070-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4aa2fa42-7942-4d7d-affa-422044993aba" />
+    <UnitTestResult executionId="5ffe2b25-013d-4a3a-90a0-a0b6048c7d5e" testId="efe7f64f-3eb1-6384-af56-a6a32e393116" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Criar_Filme_Sem_Nome" computerName="JEAN" duration="00:00:00.0001204" startTime="2022-06-26T20:03:40.4472058-03:00" endTime="2022-06-26T20:03:40.4472058-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ffe2b25-013d-4a3a-90a0-a0b6048c7d5e" />
+    <UnitTestResult executionId="83164bdc-fde1-4f8d-8b01-588e922793d3" testId="10c84104-ff6e-1149-ae7d-6ddd9e1cda58" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Texto_Busca" computerName="JEAN" duration="00:00:00.0000292" startTime="2022-06-26T20:03:40.4472195-03:00" endTime="2022-06-26T20:03:40.4472195-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="83164bdc-fde1-4f8d-8b01-588e922793d3" />
+    <UnitTestResult executionId="6c4dd2c2-fca2-4042-ab48-0cae6e3cde41" testId="bbf43cce-c13d-76cb-c110-8d01ad46b5cd" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Com_Um_Item" computerName="JEAN" duration="00:00:00.0005557" startTime="2022-06-26T20:03:40.4471911-03:00" endTime="2022-06-26T20:03:40.4471911-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c4dd2c2-fca2-4042-ab48-0cae6e3cde41" />
+    <UnitTestResult executionId="71bdbe6f-c4a9-4df8-8219-b7a369aaa2f2" testId="992a0030-b406-5dfe-ce63-7b090d8ffba7" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Criar_Filme" computerName="JEAN" duration="00:00:00.0000660" startTime="2022-06-26T20:03:40.4647400-03:00" endTime="2022-06-26T20:03:40.4647400-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71bdbe6f-c4a9-4df8-8219-b7a369aaa2f2" />
+    <UnitTestResult executionId="d1a3e084-fd7c-4c4a-91d3-ada519feba4f" testId="a1fd2372-dec0-f2f6-769c-b799b60a149c" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Remover_Caso_Filme_Nao_Exista" computerName="JEAN" duration="00:00:00.0001958" startTime="2022-06-26T20:03:40.4472330-03:00" endTime="2022-06-26T20:03:40.4472331-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1a3e084-fd7c-4c4a-91d3-ada519feba4f" />
+    <UnitTestResult executionId="0bc514bc-d549-4767-9a66-232827ec6887" testId="36d3c1c1-6b53-fa9e-e1ca-b581375ddad0" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Remover_Filme" computerName="JEAN" duration="00:00:00.0009518" startTime="2022-06-26T20:03:40.4471606-03:00" endTime="2022-06-26T20:03:40.4471607-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0bc514bc-d549-4767-9a66-232827ec6887" />
+    <UnitTestResult executionId="0da88339-ed50-485d-80ed-8d255b9d24b8" testId="d8815166-f4a7-8418-a0cc-ece789e3431d" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Listar_Catalogo_Vazio" computerName="JEAN" duration="00:00:00.0003681" startTime="2022-06-26T20:03:40.4471744-03:00" endTime="2022-06-26T20:03:40.4471744-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0da88339-ed50-485d-80ed-8d255b9d24b8" />
+    <UnitTestResult executionId="0870112b-b805-4ece-b714-50cd07376f18" testId="d06fb938-182b-4c61-a628-7acd9396f083" testName="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Ano(anoFiltro: 2017)" computerName="JEAN" duration="00:00:00.0041170" startTime="2022-06-26T20:03:40.4444399-03:00" endTime="2022-06-26T20:03:40.4444603-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0870112b-b805-4ece-b714-50cd07376f18" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Com_Um_Item" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="bbf43cce-c13d-76cb-c110-8d01ad46b5cd">
+      <Execution id="6c4dd2c2-fca2-4042-ab48-0cae6e3cde41" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Listar_Catalogo_Com_Um_Item" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Texto_Busca" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="10c84104-ff6e-1149-ae7d-6ddd9e1cda58">
+      <Execution id="83164bdc-fde1-4f8d-8b01-588e922793d3" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Listar_Catalogo_Por_Texto_Busca" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Criar_Filme_Duplicado" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="f70233f2-c6f0-d59b-c3b3-2840fce82404">
+      <Execution id="3bfd9597-5f6c-4cac-a1e6-716022595cce" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Lancar_Exception_Ao_Criar_Filme_Duplicado" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Criar_Filme_Sem_Nome" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="efe7f64f-3eb1-6384-af56-a6a32e393116">
+      <Execution id="5ffe2b25-013d-4a3a-90a0-a0b6048c7d5e" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Lancar_Exception_Ao_Criar_Filme_Sem_Nome" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Listar_Catalogo_Vazio" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="d8815166-f4a7-8418-a0cc-ece789e3431d">
+      <Execution id="0da88339-ed50-485d-80ed-8d255b9d24b8" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Lancar_Exception_Ao_Listar_Catalogo_Vazio" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Criar_Filme" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="992a0030-b406-5dfe-ce63-7b090d8ffba7">
+      <Execution id="71bdbe6f-c4a9-4df8-8219-b7a369aaa2f2" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Criar_Filme" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Lancar_Exception_Ao_Remover_Caso_Filme_Nao_Exista" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="a1fd2372-dec0-f2f6-769c-b799b60a149c">
+      <Execution id="d1a3e084-fd7c-4c4a-91d3-ada519feba4f" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Lancar_Exception_Ao_Remover_Caso_Filme_Nao_Exista" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Ano(anoFiltro: 2022)" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="57e3ba83-4e31-d17a-839c-1f1f2829d9fa">
+      <Execution id="4aa2fa42-7942-4d7d-affa-422044993aba" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Listar_Catalogo_Por_Ano" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Ano(anoFiltro: 2017)" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="d06fb938-182b-4c61-a628-7acd9396f083">
+      <Execution id="0870112b-b805-4ece-b714-50cd07376f18" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Listar_Catalogo_Por_Ano" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Listar_Catalogo_Por_Ano(anoFiltro: 2016)" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="d79516b0-ce55-7b50-9470-d061f1eef84c">
+      <Execution id="cedc9a94-513c-4a62-b097-bfbc51fb28c2" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Listar_Catalogo_Por_Ano" />
+    </UnitTest>
+    <UnitTest name="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest.Deveria_Remover_Filme" storage="c:\code\aulas\audaces - exceptions\devinhouse.audaces\devinhouse.audaces.tdd.example.tests\bin\debug\net6.0\devinhouse.audaces.tdd.example.tests.dll" id="36d3c1c1-6b53-fa9e-e1ca-b581375ddad0">
+      <Execution id="0bc514bc-d549-4767-9a66-232827ec6887" />
+      <TestMethod codeBase="C:\Code\Aulas\Audaces - Exceptions\DevInHouse.Audaces\DevInHouse.Audaces.TDD.Example.Tests\bin\Debug\net6.0\DevInHouse.Audaces.TDD.Example.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="DevInHouse.Audaces.TDD.Example.Tests.CatalogoTest" name="Deveria_Remover_Filme" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="f70233f2-c6f0-d59b-c3b3-2840fce82404" executionId="3bfd9597-5f6c-4cac-a1e6-716022595cce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d79516b0-ce55-7b50-9470-d061f1eef84c" executionId="cedc9a94-513c-4a62-b097-bfbc51fb28c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57e3ba83-4e31-d17a-839c-1f1f2829d9fa" executionId="4aa2fa42-7942-4d7d-affa-422044993aba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="efe7f64f-3eb1-6384-af56-a6a32e393116" executionId="5ffe2b25-013d-4a3a-90a0-a0b6048c7d5e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10c84104-ff6e-1149-ae7d-6ddd9e1cda58" executionId="83164bdc-fde1-4f8d-8b01-588e922793d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbf43cce-c13d-76cb-c110-8d01ad46b5cd" executionId="6c4dd2c2-fca2-4042-ab48-0cae6e3cde41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="992a0030-b406-5dfe-ce63-7b090d8ffba7" executionId="71bdbe6f-c4a9-4df8-8219-b7a369aaa2f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1fd2372-dec0-f2f6-769c-b799b60a149c" executionId="d1a3e084-fd7c-4c4a-91d3-ada519feba4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36d3c1c1-6b53-fa9e-e1ca-b581375ddad0" executionId="0bc514bc-d549-4767-9a66-232827ec6887" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8815166-f4a7-8418-a0cc-ece789e3431d" executionId="0da88339-ed50-485d-80ed-8d255b9d24b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d06fb938-182b-4c61-a628-7acd9396f083" executionId="0870112b-b805-4ece-b714-50cd07376f18" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados que não estão em uma lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos os resultados carregados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="11" executed="11" passed="11" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 6.0.5)&#xD;
+[xUnit.net 00:00:00.28]   Discovering: DevInHouse.Audaces.TDD.Example.Tests&#xD;
+[xUnit.net 00:00:00.31]   Discovered:  DevInHouse.Audaces.TDD.Example.Tests&#xD;
+[xUnit.net 00:00:00.32]   Starting:    DevInHouse.Audaces.TDD.Example.Tests&#xD;
+[xUnit.net 00:00:00.38]   Finished:    DevInHouse.Audaces.TDD.Example.Tests&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\Aulas\\Audaces - Exceptions\\DevInHouse.Audaces\\DevInHouse.Audaces.TDD.Example\\DevInHouse.Audaces.TDD.Example.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\Aulas\\Audaces - Exceptions\\DevInHouse.Audaces\\DevInHouse.Audaces.TDD.Example\\DevInHouse.Audaces.TDD.Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\Aulas\\Audaces - Exceptions\\DevInHouse.Audaces\\DevInHouse.Audaces.TDD.Example\\DevInHouse.Audaces.TDD.Example.csproj",
+        "projectName": "DevInHouse.Audaces.TDD.Example",
+        "projectPath": "C:\\Code\\Aulas\\Audaces - Exceptions\\DevInHouse.Audaces\\DevInHouse.Audaces.TDD.Example\\DevInHouse.Audaces.TDD.Example.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\Aulas\\Audaces - Exceptions\\DevInHouse.Audaces\\DevInHouse.Audaces.TDD.Example\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

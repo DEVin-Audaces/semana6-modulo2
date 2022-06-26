@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DevInHouse.Audaces.Exceptions.Examples/1.0.0": {
+        "runtime": {
+          "DevInHouse.Audaces.Exceptions.Examples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevInHouse.Audaces.Exceptions.Examples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

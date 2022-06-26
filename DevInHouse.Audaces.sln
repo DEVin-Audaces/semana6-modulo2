@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevInHouse.Audaces.Exceptions.Examples", "DevInHouse.Audaces.Exceptions.Examples\DevInHouse.Audaces.Exceptions.Examples.csproj", "{69F33AD8-86E5-4A46-A924-A577DB6AD6B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions", "Exceptions", "{FF87479D-C22B-4997-90AB-38F76C477AD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD", "TDD", "{B7A70FF7-CAA8-4E9F-9078-86B49519B633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevInHouse.Audaces.TDD.Example", "DevInHouse.Audaces.TDD.Example\DevInHouse.Audaces.TDD.Example.csproj", "{F4CCFB03-C738-479B-B9F1-72AFF2A39F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevInHouse.Audaces.TDD.Example.Tests", "DevInHouse.Audaces.TDD.Example.Tests\DevInHouse.Audaces.TDD.Example.Tests.csproj", "{9E7EB1AD-89B8-41FE-BFE6-CB17FA5E48C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F33AD8-86E5-4A46-A924-A577DB6AD6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F33AD8-86E5-4A46-A924-A577DB6AD6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F33AD8-86E5-4A46-A924-A577DB6AD6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F33AD8-86E5-4A46-A924-A577DB6AD6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CCFB03-C738-479B-B9F1-72AFF2A39F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CCFB03-C738-479B-B9F1-72AFF2A39F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CCFB03-C738-479B-B9F1-72AFF2A39F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CCFB03-C738-479B-B9F1-72AFF2A39F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7EB1AD-89B8-41FE-BFE6-CB17FA5E48C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7EB1AD-89B8-41FE-BFE6-CB17FA5E48C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7EB1AD-89B8-41FE-BFE6-CB17FA5E48C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7EB1AD-89B8-41FE-BFE6-CB17FA5E48C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69F33AD8-86E5-4A46-A924-A577DB6AD6B2} = {FF87479D-C22B-4997-90AB-38F76C477AD3}
+		{F4CCFB03-C738-479B-B9F1-72AFF2A39F33} = {B7A70FF7-CAA8-4E9F-9078-86B49519B633}
+		{9E7EB1AD-89B8-41FE-BFE6-CB17FA5E48C7} = {B7A70FF7-CAA8-4E9F-9078-86B49519B633}
+	EndGlobalSection
+EndGlobal

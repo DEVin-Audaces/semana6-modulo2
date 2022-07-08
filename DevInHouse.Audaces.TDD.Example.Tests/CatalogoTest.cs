@@ -1,5 +1,6 @@
 using DevInHouse.Audaces.TDD.Example.Dominio;
 using DevInHouse.Audaces.TDD.Example.Exceptions;
+using Xunit;
 
 namespace DevInHouse.Audaces.TDD.Example.Tests;
 
@@ -123,10 +124,22 @@ public class CatalogoTest
         );
     }
     
-    // Implementando nova funcionalidade
     [Fact]
     public void Deveria_Listar_Catalogo_Por_Texto_Busca()
     {
-        Assert.True(true);
+        var catalogo = new CatalogoFilmes();
+
+        catalogo.AdicionaFilme("Deadpool", 2016);
+        catalogo.AdicionaFilme("Liga da Justiça", 2017);
+        catalogo.AdicionaFilme("Sem saída", 2022);
+
+        var busca = "Deadpool";
+        
+        var lista = catalogo.ObterCatalogoFilmesPorTexto(busca);
+        
+        Assert.All(
+            lista,
+            f => Assert.Equal(f.Nome, busca)
+        );
     }
 }

@@ -51,4 +51,13 @@ public class CatalogoFilmes
 
         return Filmes.Where(f => f.Ano == ano).ToList();
     }
+
+    public List<Filme> ObterCatalogoFilmesPorTexto(string busca)
+    {
+        var filmesComBuscaNoNome = Filmes
+            .Where(f => f.Nome.Equals(busca))
+            .ToList();
+
+        return filmesComBuscaNoNome;
+    }
 }
